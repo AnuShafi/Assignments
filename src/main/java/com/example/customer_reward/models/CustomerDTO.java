@@ -17,7 +17,7 @@ public class CustomerDTO implements Comparable<CustomerDTO> {
 	@Min(message="id should be greater than 0", value = 1)
 	private int id;
 	
-	@NotBlank(message="Name cannot be b")
+	@NotBlank(message="Name cannot be blank")
 	private String name;
 	
 	@Min(message="Purchase amount should be greater than 0", value = 0)
