@@ -2,7 +2,7 @@
 
 Input and out as Json objects
 
-used Spring boot, maven,java 8 Lamda ,custom Http headers, Eception handler , Junit 5 jupitor
+used Spring boot, maven,java 8 Lamda ,custom Http headers, Exception handler , Junit 5 jupitor
 
 Input 
 
